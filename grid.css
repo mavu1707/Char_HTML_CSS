@@ -1,0 +1,5 @@
+#grid-container{
+  display: grid;
+  grid-template-areas: "header header header"
+  "main main aside";
+}
